@@ -27,7 +27,7 @@ body {
   margin: 0 auto;
   font-family: 'Suisse';
   box-sizing: border-box;
-  padding: 36px;
+  padding: 10px;
   max-height: 100vh;
 }
 
@@ -61,7 +61,7 @@ body {
 .image {
   width: 100%;
   display: block;
-  margin: 70px auto 60px;
+  margin: 20px auto 20px;
 }
 
 .advice {
@@ -72,5 +72,5 @@ body {
 
 .footer {
   font-size: 16px;
-  margin-top: 70px;
+  margin-top: 30px;
 }
